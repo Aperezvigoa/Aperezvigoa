@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🛠️ Visual Studio Code, Vim, Docker
 
 ## 📈 GitHub Stats
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheddar_mc&show_icons=true&theme=tokyonight)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aperezvigoa&show_icons=true&theme=tokyonight)
 
 ## 📫 Where to find me
 - Twitter: [@cheddar_dev](https://twitter.com/cheddar_dev)
