@@ -1,51 +1,38 @@
-# 👋 Hi there, I'm Aperezvigoa
+# Hi there, I'm Alejandro 👋
 
-I'm a self-taught developer passionate about **Linux**, **Golang**, and building real-world tools that solve problems. I enjoy working on backend systems, CLI applications, and anything that runs close to the system.
+I'm a self-taught developer passionate about **Rust**, **Linux**, and low-level systems programming. I enjoy learning how things work under the hood and building efficient, robust software from the ground up.
 
----
-
-## 🚀 What I'm Working On
-
-- 🔥 A real-time firewall log monitor for Linux using Go, with support for templated output and JSON export
-- 🌍 Learning backend web development and APIs with Go and modern tools
+Currently, I spend most of my time exploring the Rust ecosystem, contributing to open source, and experimenting with tools that push me closer to the metal. I'm particularly interested in systems programming, developer tooling, and performance optimization.
 
 ---
 
-## 🧰 Tech Stack & Interests
+### 💻 Tech Interests
+- 🦀 Rust programming
+- 🐧 Linux and the Unix philosophy
+- ⚙️ Systems and backend development
+- 📦 Command-line tools & automation
+- 💡 Open source software
 
-**Languages:**
-- Golang 💙
-- HTML / CSS / JS 🧪
+---
 
-**Tools & Concepts:**
-- Linux (daily driver)
-- Git, GitHub
-- Regular Expressions (regex)
-- Concurrency with goroutines & channels
-- `bufio`, JSON, `html/template`, file I/O in Go
-- Real-time log parsing & CLI tools
+### 📫 Connect with me
+
+- Twitter (X): [@aperezvigoa](https://twitter.com/aperezvigoa)
+- GitHub: You're already here 😉
+
+---
+
+### 📁 Projects & Contributions
+
+Feel free to explore my pinned repositories to see what I’ve been working on. I love clean code, clear documentation, and elegant design patterns.
+
+---
+
+> _"Hack the system, understand the core."_ — A philosophy I live by.
+
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Aperezvigoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aperezvigoa&show_icons=true&theme=tokyonight)
-
----
-
-## 🔗 Where to Find Me
-- 🐧 Probably I'll be working on Linux, learning something new every day, so if you want to send me a message, you can find me on X @aperezvigoa
-
----
-
-## 💬 Let's Connect
-
-Feel free to reach out if you want to collaborate on a tool, talk about Go or Linux, or just say hi!
-
----
-
-## 📌 Pinned Projects
-
-Check out my most recent creation:
-
-- [🛡️ UFW Real-Time Log Monitor](https://github.com/Aperezvigoa/gocourse/tree/main/firewall-linux-logger) — Reads `/var/log/ufw.log`, detects blocks, and exports logs in template and JSON format.
