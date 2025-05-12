@@ -34,7 +34,7 @@ I'm a self-taught developer passionate about **Linux**, **Golang**, and building
 ---
 
 ## 🔗 Where to Find Me
-- 🐧 Working on Linux, learning something new every day
+- 🐧 Probably I'll be working on Linux, learning something new every day, so if you want to send me a message, you can find me on X @aperezvigoa
 
 ---
 
