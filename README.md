@@ -1,38 +1,78 @@
-# Hi there, I'm Alejandro 👋
+# 👋 Hi, I'm Alex
 
-I'm a self-taught developer passionate about **Rust**, **Linux**, and low-level systems programming. I enjoy learning how things work under the hood and building efficient, robust software from the ground up.
+I'm a developer passionate about **systems programming**, **Rust**, and the inner workings of computing. I’m currently building my own operating system in Rust from scratch — not just as an academic exercise, but as a way to master low-level development and understand how software truly interacts with hardware.
 
-Currently, I spend most of my time exploring the Rust ecosystem, contributing to open source, and experimenting with tools that push me closer to the metal. I'm particularly interested in systems programming, developer tooling, and performance optimization.
-
----
-
-### 💻 Tech Interests
-- 🦀 Rust programming
-- 🐧 Linux and the Unix philosophy
-- ⚙️ Systems and backend development
-- 📦 Command-line tools & automation
-- 💡 Open source software
+At the same time, I’m actively expanding my skills in **web development**, aiming to bridge the gap between high-level and low-level systems. I believe in writing clean, efficient, and well-structured code — whether it runs in the browser or on bare metal.
 
 ---
 
-### 📫 Connect with me
+## 🛠️ Tech Stack & Tools
 
-- Twitter (X): [@aperezvigoa](https://twitter.com/aperezvigoa)
-- GitHub: You're already here 😉
+### ⚙️ Systems & Backend
+- 🦀 **Rust** – core language for kernel and backend work
+- 🧠 QEMU – virtualization for OS testing
+- 📦 Cargo – Rust’s powerful build and package manager
+- 🐧 Linux – development environment of choice
+
+### 🌐 Web Development
+- 🧱 HTML, CSS, JavaScript
+- 🌿 Node.js, Express
+- 📚 Learning modern Rust frameworks like Axum & Actix
+- 🐘 PostgreSQL, SQLite
+
+### 🧰 Dev Tools & Practices
+- 📋 Git & GitHub (clean commits, structured repos)
+- ⚙️ GitHub Actions (CI/CD pipelines)
+- 🐚 Shell scripting & command-line workflows
+- 🐳 Docker (containerization in progress)
 
 ---
 
-### 📁 Projects & Contributions
+## 🔍 Current Focus Areas
 
-Feel free to explore my pinned repositories to see what I’ve been working on. I love clean code, clear documentation, and elegant design patterns.
+- Building a **Rust-based kernel**: from bootloader to memory management and multitasking
+- Exploring **concurrency, scheduling, and virtual memory** in depth
+- Designing modular and extensible system components
+- Learning full-stack web development to complement systems-level expertise
+- Studying foundational resources like:
+  - *Operating Systems: Three Easy Pieces*
+  - [*Writing an OS in Rust*](https://os.phil-opp.com/)
 
 ---
 
-> _"Hack the system, understand the core."_ — A philosophy I live by.
+## 🚧 Featured Projects **NOT PUBLISHED OR PRIVATE**
 
+- 🧬 **Custom Rust Kernel** – A minimal, educational OS built entirely in Rust, designed for modularity and clarity.
+- 🌐 **Web Tools** (WIP) – Small utilities and backend services written in Rust or Node.js.
+- 🔧 **Dev Utilities** – Scripts and tools for automation and development workflows.
+
+> Check my pinned repositories to explore these projects.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Insights
 
-![Aperezvigoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aperezvigoa&show_icons=true&theme=tokyonight)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+---
+
+## 💬 Let's Connect
+
+- 🐦 Twitter: [`@aperezvigoa`](https://twitter.com/aperezvigoa)
+- 🌐 Portfolio: *Coming soon*
+- 🤝 Open to collaboration, especially in systems, backend, and OSS.
+
+---
+
+## 🎯 Goals for 2025
+
+- ✅ Boot a Rust kernel with basic multitasking
+- ✅ Deepen understanding of OS internals
+- 🚀 Build and release full-stack Rust applications
+- 🧪 Contribute meaningfully to open source
+- 💼 Grow towards a role in systems/backend engineering
+
+---
+
+If you're into systems programming, Rust, or just love building things close to the metal — feel free to reach out, contribute, or fork one of my projects. Always happy to connect with like-minded developers. ⭐
+
