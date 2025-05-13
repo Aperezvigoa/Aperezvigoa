@@ -51,8 +51,7 @@ At the same time, I’m actively expanding my skills in **web development**, aim
 ---
 
 ## 📈 GitHub Insights
-
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aperezvigoa&show_icons=true&theme=default)
 
 ---
 
